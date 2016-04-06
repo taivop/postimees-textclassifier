@@ -1,0 +1,1 @@
+python -m textclassifier.classify data/training_data.csv predictions.csv models/postimees.bin
